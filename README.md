@@ -39,4 +39,4 @@ Activities:
 ## Visual Results
 ## Visual Results
 
-![Learning Curves](image%2.png)
+![Learning Curves](https://github.com/ChauhanAbhay/Human-Activity-Recognition-Using-Smartphone-Sensor-Data/blob/main/image%202.png)
