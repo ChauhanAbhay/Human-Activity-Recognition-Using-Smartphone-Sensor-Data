@@ -36,3 +36,4 @@ Activities:
 - Support Vector Machine (SVM)
 - Random Forest
 - Artificial Neural Network (ANN)
+## Visual Results
