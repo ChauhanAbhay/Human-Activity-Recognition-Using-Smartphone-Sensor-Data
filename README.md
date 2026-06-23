@@ -37,3 +37,6 @@ Activities:
 - Random Forest
 - Artificial Neural Network (ANN)
 ## Visual Results
+## Visual Results
+
+![Learning Curves](image%2.png)
