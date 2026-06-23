@@ -41,4 +41,4 @@ Activities:
 
 ![Learning Curves](https://github.com/ChauhanAbhay/Human-Activity-Recognition-Using-Smartphone-Sensor-Data/blob/main/image%202.png)
 ![ confusion matrix](https://github.com/ChauhanAbhay/Human-Activity-Recognition-Using-Smartphone-Sensor-Data/blob/main/image%203.png)
-![accuracy of the modles](image%20.png)
+![accuracy of the modles](https://github.com/ChauhanAbhay/Human-Activity-Recognition-Using-Smartphone-Sensor-Data/blob/main/image.png)
